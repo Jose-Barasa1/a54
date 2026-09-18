@@ -6,7 +6,7 @@ const news = [
     title: 'A54 Junior Karting Cup returns for Round 3',
     excerpt: 'Over 40 young drivers battle it out at Whistling Thorns in the season\'s most competitive junior round.',
     date: 'Apr 12, 2026',
-    image: 'https://images.unsplash.com/photo-1551528551-9f5b1ee0a51c?w=1200&q=80',
+    image: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNLowSlG7JNuryoG8532MsaDMNFzrrEoMy3NLn7uPBGepdfQvRPICsY63j&s=10',
     featured: true,
   },
   {
